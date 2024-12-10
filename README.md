@@ -1,6 +1,8 @@
 ## Hi there, my name is Mika 👋
 
-- Computer Science Student
+- A Third year Computer Science Student
+
+  
   
 <!--
 **mikael-ramos/mikael-ramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
