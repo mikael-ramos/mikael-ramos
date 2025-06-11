@@ -6,11 +6,11 @@
 
 ###
 
-<h3 align="left">Main Stack 🖥</h3>
+<h3 align="center">Main Stack 🖥</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="40" alt="jupyter logo"  />
@@ -28,39 +28,11 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikael-ramos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="180" alt="languages graph"  />
-</div>
+<h3 align="center">Other stacks</h3>
 
 ###
 
-<br clear="both">
-
-<h3 align="left">Social</h3>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/mikael-ramos/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/mikael_ramos09" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  </a>
-  <a href="https://miskah.itch.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg" width="52" height="40" alt="itch logo"  />
-  </a>
-</div>
-
-###
-
-<h3 align="left">Other stacks</h3>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="40" alt="ubuntu logo"  />
@@ -85,8 +57,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikael-ramos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=mikael-ramos&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikael-ramos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="170" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mikael-ramos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=mikael-ramos&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
